@@ -1,0 +1,19 @@
+{
+  "name": "auctionline",
+  "version": "1.0.0",
+  "description": "The very first feature of our client's online real-time multiplayer game: The Auction System.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefte Santos Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg": "^7.3.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.17.0",
+    "sequelize-cli": "^3.0.0"
+  }
+}
